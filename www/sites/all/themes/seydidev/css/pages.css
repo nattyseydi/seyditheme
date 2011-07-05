@@ -199,6 +199,7 @@ ul.links li {
  * (see the layout.css file.)
  */
 .region-sidebar-first {
+	float:right;
 }
 
 .region-sidebar-first .section {
